@@ -28,15 +28,8 @@ Compile and load: Compile the project and load it onto the microcontroller.
 Usage
 After setting up the hardware and loading the code, the tester is ready to use. By sending data from the TPMS sensor, you can observe the current and sensor status via UART.
 Contribution
-If you would like to contribute to this project, we are happy to hear your suggestions and feedback. Please report any issues or feature requests in the Issues section.
-License
+If you would like to contribute to this project, we are happy to hear your suggestions and feedback.
 This project is released under the MIT License. Please refer to the LICENSE file for more information.
-Contact
+Contact 
 For any questions or support, you can reach me at:
-Email: your.email@example.com
-LinkedIn: Your LinkedIn Profile
-Important Notes:
-Repository URL: Replace the repository URL in the cloning command with your own.
-Email and LinkedIn: Update your contact information.
-Additional Details: You can add more details about the project's functionality or other specifics if needed.
-With this README file, users can easily familiarize themselves with your project and start using it.
+Email: mirakimojtaba7@gmail.com
